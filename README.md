@@ -20,7 +20,7 @@ Usage
 Start the application by running .python app.py
 Use the GUI to load data, perform analyses, and visualize results.
 For sentiment analysis, load a Word document and click the corresponding button.
-Remember to navigate the GUI to explore all the functionalities this tool offers.
+
 
 # License
 MIT.
