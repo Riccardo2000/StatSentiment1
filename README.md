@@ -1,7 +1,10 @@
 # README for Sentiment Analysis and Data Visualization Tool
 # Overview
 This Python application is designed for data analysis and visualization. It supports loading, analyzing, and visualizing data from Excel files, performing sentiment analysis on Word documents, and editing data directly in the application.
-
+# Approaches
+I used two types of approaches:
+Modular Approach: This method involves splitting the program into multiple function files, each handling specific tasks like file management, data analysis, and UI interactions. It's beneficial for organization, maintainability, and scalability, especially in larger projects.
+Single Script Approach: All functionalities are contained within a single script. This is simpler and may be preferable for smaller projects, but it can become unwieldy as the program grows in complexity
 # Features
 Load and display data from Excel files.
 Read and display text from Word documents.
