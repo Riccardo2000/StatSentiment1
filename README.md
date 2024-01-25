@@ -16,7 +16,8 @@ Edit data entries directly in the interface.
 Save updated data back to Excel files.
 # Installation
 Ensure Python is installed and run the following to install dependencies:
-
+# Library
+'pandas' 'tkinter' 'matplotlib' 'docx' 'sklearn' ' 'vaderSentiment'
 # Copy code
 pip install pandas scikit-learn matplotlib python-docx vaderSentiment
 Usage
